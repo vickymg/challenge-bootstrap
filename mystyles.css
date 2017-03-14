@@ -1,0 +1,58 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+}
+
+p {
+  font-size: 16px;
+}
+
+.main-image {
+  display: inline;
+}
+
+.small-image {
+  width: 100%;
+}
+
+.margin {
+  margin-bottom: 45px;
+}
+
+
+.header-section {
+    background-color: #286da8;
+}
+
+.about-section {
+    background-color: #f5f6f7;
+    color: #555555;
+}
+
+.notes-section {
+    background-color: #cd5360;
+}
+
+.footer-section {
+    background-color: #1a2930;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
